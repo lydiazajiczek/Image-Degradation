@@ -3,8 +3,8 @@
 % classification"
 % (c)2019-2022 Lydia Neary-Zajiczek
 % lydia.zajiczek.17@ucl.ac.uk
-% Required input: dataset, Valid inputs: 'BreaKHis-4X', 'BreaKHis-10X',
-% 'BreaKHis-20X', 'BreaKHis-40X', 'BACH', 'CAMELYON16-UMCU',
+% Required input: dataset, Valid inputs: 'BreaKHis4X', 'BreaKHis10X',
+% 'BreaKHis20X', 'BreaKHis40X', 'BACH', 'CAMELYON16-UMCU',
 % 'CAMELYON16-RUMC', 'PCam'
 % Optional input: cutoff_min (integer, >2, default 10) divisor of
 % camera sampling frequency as lower bound of cutoff frequency range

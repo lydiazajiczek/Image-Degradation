@@ -3,8 +3,8 @@
 % of digital pathology images for accurate classification"
 % (c)2019-2022 Lydia Neary-Zajiczek
 % lydia.zajiczek.17@ucl.ac.uk
-% Required input: dataset, Valid inputs: 'BreaKHis-4X', 'BreaKHis-10X',
-% 'BreaKHis-20X', 'BreaKHis-40X', 'BACH', 'CAMELYON16-UCMU',
+% Required input: dataset, Valid inputs: 'BreaKHis4X', 'BreaKHis10X',
+% 'BreaKHis20X', 'BreaKHis40X', 'BACH', 'CAMELYON16-UMCU',
 % 'CAMELYON16-RUMC', 'PCam'
 % Required input: NA_L (float, must be greater than zero)
 % Optional input: save_images (boolean to save images, default true)
