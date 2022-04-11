@@ -24,4 +24,7 @@ MATLAB code for reducing spatial resolution of histopathology images. Image data
 ## Installation
 Tested on Windows 10 using MATLAB R2021a. Requires Image Processing Toolbox to be installed.
 
+To cite this code, please use the following:
+[![DOI](https://zenodo.org/badge/480455695.svg)](https://zenodo.org/badge/latestdoi/480455695)
+
 
