@@ -1,4 +1,4 @@
-# Image-Degradation
+# Image Degradation
 MATLAB code for reducing spatial resolution of histopathology images. Image datasets used:
 * BACH (data [here](https://iciar2018-challenge.grand-challenge.org/), paper [here](https://www.sciencedirect.com/science/article/pii/S1361841518307941))
 * BreaKHis (data [here](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/), paper [here](https://ieeexplore.ieee.org/abstract/document/7312934/))
