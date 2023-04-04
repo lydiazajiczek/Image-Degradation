@@ -78,6 +78,13 @@ switch dataset
         f = 200e-3/M_obj; %Leica, Nikon, Mitutoyo tube lens fl 200 mm 
         img_ext = '.tif';
         scale_factor = 10;
+    case 'BRACS'
+        NA_H = 0.75;
+        M_obj = 20;
+        M_relay = 2;
+        d_pixel = 10E-6;
+        f = 200e-3/M_obj; %Leica, Nikon, Mitutoyo tube lens fl 200 mm 
+        img_ext = 'png';
     otherwise
         error('Unknown dataset. See function help for valid datasets.')
 end
